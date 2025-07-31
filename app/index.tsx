@@ -4,7 +4,7 @@ import React from "react";
 const Index = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>code added in github also and add workflows</Text>
+      <Text style={styles.text}>code added in github also and add workflows agin added</Text>
     </View>
   );
 };
